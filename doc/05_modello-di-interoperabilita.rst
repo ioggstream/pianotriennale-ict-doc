@@ -155,9 +155,14 @@ invece che AgID, direttamente o indirettamente:
 -  metta a disposizione librerie e SDK per fornire molte delle
    funzionalità definite dalle linee guida.
 
+AgID stabilirà nelle linee guida le
+modalità di adesione al Catalogo,
+incluse le informazioni dei responsabili del trattamento (tbd estratto
+di quello che state mettendo negli accordi attuali e/o elenco puntato...)
+
 Coerentemente con l'abrogazione dell'articolo 58 del CAD non serviranno
-più convenzioni tra amministrazioni; AgID stabilirà nelle linee guida le
-modalità di adesione alle API.
+più convenzioni tra amministrazioni
+ma la singola convenzione AgID di adesione al catalogo. 
 
 Le Pubbliche amministrazioni saranno responsabili della definizione dei
 termini di utilizzo delle API da loro esposte.
