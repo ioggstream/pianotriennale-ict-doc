@@ -156,13 +156,17 @@ invece che AgID, direttamente o indirettamente:
    funzionalità definite dalle linee guida.
 
 AgID stabilirà nelle linee guida le
-modalità di adesione al Catalogo,
-incluse le informazioni dei responsabili del trattamento (tbd estratto
-di quello che state mettendo negli accordi attuali e/o elenco puntato...)
+modalità di adesione al Catalogo e le informazioni che erogatori
+e fruitori dovranno fornire, incluse:
+
+-  riferimenti al DPO
+-  finalità del trattamento (eg. riferimenti normativi)
+-  ...
 
 Coerentemente con l'abrogazione dell'articolo 58 del CAD non serviranno
 più convenzioni tra amministrazioni
-ma la singola convenzione AgID di adesione al catalogo. 
+ma le procedure di autorizzazione saranno definite dalla convenzione
+AgID e mediate dal Catalogo. 
 
 Le Pubbliche amministrazioni saranno responsabili della definizione dei
 termini di utilizzo delle API da loro esposte.
