@@ -155,9 +155,13 @@ invece che AgID, direttamente o indirettamente:
 -  metta a disposizione librerie e SDK per fornire molte delle
    funzionalità definite dalle linee guida.
 
-Coerentemente con l'abrogazione dell'articolo 58 del CAD non serviranno
-più convenzioni tra amministrazioni; AgID stabilirà nelle linee guida le
-modalità di adesione alle API.
+Coerentemente con l'abrogazione dell'articolo 58 del CAD non sarà 
+più obbligatorio stipulare convenzioni tra amministrazioni; AgID stabilirà nelle linee guida le
+modalità di adesione ed autorizzazione alle API per i soggetti convenzionati.
+
+Le linee guida permetteranno agli erogatori di definire a priori
+le condizioni da rispettare, incluse le finalità ed i vincoli normativi
+da rispettare. 
 
 Le Pubbliche amministrazioni saranno responsabili della definizione dei
 termini di utilizzo delle API da loro esposte.
